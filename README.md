@@ -31,7 +31,7 @@ Quadrados Mínimos:
 
 ## Planos
 
-Apenas os tópicos de Erros e Aritmética de Ponto Flutuante, Zeros de Funções e Quadrados Mínimos foram solicitados como avaliação da disciplina. Como estudo próprio, serão implementados os demais métodos numéricos ministrados na disciplina.z
+Apenas os tópicos de Erros e Aritmética de Ponto Flutuante, Zeros de Funções e Quadrados Mínimos foram solicitados como avaliação da disciplina. Como estudo próprio, serão implementados os demais métodos numéricos ministrados na disciplina.
 
 - [] Resolução de Sistemas Lineares
 - [] Resolução de Sistemas Não-Lineares
